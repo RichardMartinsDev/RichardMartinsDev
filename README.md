@@ -1,10 +1,11 @@
+![Snake animation](https://github.com/CristianoFIlho/CristianoFIlho/blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h2>Hello World ☕</h2>
 
 <p>Richard, ou mais conhecido como Rick, desenvolvedor Back-End. Produz conteúdo desde 2020 sobre desenvolvimento Back-End. Extremamente apaixonado por café e tecnologia.</p>
 
-![Snake animation](https://github.com/CristianoFIlho/CristianoFIlho/blob/output/github-contribution-grid-snake.svg)
 </br>
 
 <h3>Linguagens: </h3> 
