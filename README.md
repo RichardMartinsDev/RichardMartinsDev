@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Richard, ou mais conhecido como Rick, desenvolvedor back-end. Produz conteúdo desde 2020 sobre desenvolvimento back-end. Extremamente apaixonado por café e tecnologia.
 </p>
 
 <p align="left">
@@ -14,7 +13,7 @@
 </p>
 
 <p align="left">
-  💻 Caso queira acompanhar meus conteúdos:  ⤵️
+  💻 Caso queira acompanhar meus conteúdos:  ⤵
 </p>
 
 <p align="left">
