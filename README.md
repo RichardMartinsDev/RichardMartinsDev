@@ -2,7 +2,7 @@
 
 <h2>Hello World ☕</h2>
 
-<p>Richard, ou mais conhecido como Rick, desenvolvedor back-end. Produz conteúdo desde 2020 sobre desenvolvimento back-end. Extremamente apaixonado por café e tecnologia.</p>
+<p>Richard, ou mais conhecido como Rick, desenvolvedor Back-End. Produz conteúdo desde 2020 sobre desenvolvimento Back-End. Extremamente apaixonado por café e tecnologia.</p>
 
 </br>
 
