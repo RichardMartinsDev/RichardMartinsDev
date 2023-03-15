@@ -6,7 +6,13 @@
 
 </br>
 
-<h3>Caso queira acompanhar meus conteúdos:</h3> 
+<h3>Linguagens: </h3> 
+<div align="left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+   
+
+<h4>Caso queira acompanhar meus conteúdos:</h4> 
 
 <div align="left">
   <a href="https://www.instagram.com/clownhookz/" alt="Instagram">
