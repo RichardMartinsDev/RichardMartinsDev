@@ -1,29 +1,20 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
 
-<p align="left"> 
-  Richard, ou mais conhecido como Rick, desenvolvedor back-end. Produz conteúdo desde 2020 sobre desenvolvimento back-end. Extremamente apaixonado por café e tecnologia.
-</p>
+<h2>Hello World ☕</h2>
 
-<p align="left">
-  👨‍💻 Linguagens: <strong>C#.</strong>
-</p>
+<p>Richard, ou mais conhecido como Rick, desenvolvedor back-end. Produz conteúdo desde 2020 sobre desenvolvimento back-end. Extremamente apaixonado por café e tecnologia.</p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Visual Studio.</strong>
-</p>
+</br>
 
-<p align="left">
-  💻 Caso queira acompanhar meus conteúdos:  ⤵
-</p>
+<h3>Caso queira acompanhar meus conteúdos:</h3> 
 
-<p align="left">
+<div align="left">
+  <a href="https://www.instagram.com/clownhookz/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  </a>
   
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-martins-241634262/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511998793559"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/clownhookz/"/></a>
-</p>  
+  <a href="https://www.linkedin.com/in/richard-martins-241634262/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+  </a>
+  
+</div>
