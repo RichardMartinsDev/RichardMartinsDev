@@ -1,4 +1,4 @@
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h2>Hello World ☕</h2>
 
