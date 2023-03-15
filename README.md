@@ -10,11 +10,11 @@
 
 <div align="left">
   <a href="https://www.instagram.com/clownhookz/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=#8a2be2"/>
   </a>
   
   <a href="https://www.linkedin.com/in/richard-martins-241634262/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=#8a2be2"/>
   </a>
   
 </div>
