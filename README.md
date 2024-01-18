@@ -17,7 +17,7 @@
 <h4>Caso queira acompanhar meus conteúdos:</h4> 
 
 <div align="left">
-  <a href="https://www.instagram.com/clownhookz/" alt="Instagram">
+  <a href="https://www.instagram.com/rick.mt03/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
